@@ -1,4 +1,4 @@
-package br.livro.entendendoalgoritmos;
+package br.livro.entendendoalgoritmos.capitulo4;
 
 import java.util.Arrays;
 /**
